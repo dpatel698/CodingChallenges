@@ -7,9 +7,9 @@ Welcome to my **Coding Challenges** repository! This collection showcases soluti
 Explore the solutions to the following challenges:
 
 - **Custom WC Unix Tool** [[Python]](https://github.com/dpatel698/wcTool)
-- **JSON Parser** [[Python]](https://github.com/dpatel698/wcTool)
-- **Compression Tool using Huffman Coding** [[Python]](https://github.com/dpatel698/wcTool)
-- **Custom Cut Unix Tool** [[Python]](https://github.com/dpatel698/wcTool)
+- **JSON Parser** [[Python]](https://github.com/dpatel698/JSONParser)
+- **Compression Tool using Huffman Coding** [[Python]](https://github.com/dpatel698/huffman-compression-tool)
+- **Custom Cut Unix Tool** [[Python]](https://github.com/dpatel698/cutUnixTool)
 - **Load Balancer** [[Java]](https://github.com/dpatel698/LoadBalancer)
 
 ## Technologies Used
@@ -19,7 +19,7 @@ Explore the solutions to the following challenges:
 
 ## Acknowledgements
 
-A special thank you to [John Crickett's Coding Challenges](https://codingchallenges.substack.com/) for inspiring these projects and providing a platform to hone my skills.
+Thank you to [John Crickett's Coding Challenges](https://codingchallenges.substack.com/) for inspiring these projects and providing a platform to grow as an engineer and improve my skills.
 
 ## How to Use
 
