@@ -1,6 +1,6 @@
 # Coding Challenges
 
-Welcome to my **Coding Challenges** repository! This collection showcases solutions to various coding challenges, demonstrating my ability to implement applications, features, and solve complex problems using multiple technologies. Each project highlights skills in clean coding, efficient algorithms, and problem-solving.
+Welcome to my **Coding Challenges** repository! This collection showcases solutions to various coding challenges, demonstrating my ability to implement applications, features, and solve complex problems using multiple technologies. Each project highlights skills in design, clean coding, efficient algorithms, and problem-solving.
 
 ## Challenges
 
