@@ -11,7 +11,7 @@ Explore the solutions to the following challenges:
 - **Compression Tool using Huffman Coding** [[Python]](https://github.com/dpatel698/huffman-compression-tool)
 - **Custom Cut Unix Tool** [[Python]](https://github.com/dpatel698/cutUnixTool)
 - **Load Balancer** [[Java]](https://github.com/dpatel698/LoadBalancer)
-- **Web-App Calculator** [[Javascript/HTML/CSS]](https://github.com/dpatel698/webcalculator)[[Website Link](https://supremecalculator.netlify.app/)
+- **Web-App Calculator** [[Javascript/HTML/CSS]](https://github.com/dpatel698/webcalculator)[[Website Link](https://supremecalculator.netlify.app/)]
 
 ## Technologies Used
 
